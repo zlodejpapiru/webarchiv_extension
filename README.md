@@ -3,6 +3,8 @@
 # Webarchiv Extension for Brave
 
 ![Webarchiv Extension](icons/icon128.png)
+![Webarchiv Extension](img/1.png)
+![Webarchiv Extension](img/2.png)
 
 Jednoduché rozšíření pro Brave/Chromium, které usnadňuje práci s českým Webarchivem.
 
