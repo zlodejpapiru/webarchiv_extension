@@ -6,7 +6,7 @@
 ![Webarchiv Extension](img/1.png)
 
 
-Jednoduché rozšíření pro Brave/Chromium, které usnadňuje práci s českým Webarchivem.
+Jednoduché rozšíření pro Chrome / Brave / Chromium, které usnadňuje práci s českým Webarchivem.
 
 Rozšíření umí:
 
