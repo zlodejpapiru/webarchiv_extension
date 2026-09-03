@@ -1,6 +1,6 @@
 # webarchiv.cz extension
 
-# Webarchiv Extension for Brave
+# Webarchiv Extension 
 
 ![Webarchiv Extension](icons/icon128.png)
 ![Webarchiv Extension](img/1.png)
