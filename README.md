@@ -242,15 +242,7 @@ Toto rozšíření není oficiálním produktem Webarchivu ani Národní knihovn
 
 Jde o nezávislý pomocný nástroj pro rychlejší práci se službami Webarchivu.
 
-## Licence
 
-Pokud chceš projekt zveřejnit jako open source, můžeš použít například licenci MIT.
-
-Příklad:
-
-```text
-MIT License
-```
 
 Doporučeno je přidat do repozitáře samostatný soubor:
 
