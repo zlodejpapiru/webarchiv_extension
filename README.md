@@ -1,4 +1,4 @@
-# webarchiv_extension
+# webarchiv.cz extension
 
 # Webarchiv Extension for Brave
 
